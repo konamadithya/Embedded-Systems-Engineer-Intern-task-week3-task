@@ -1,1 +1,2 @@
 # Embedded-Systems-Engineer-Intern-task-week3-task
+Debugging and performance optimization of an ESP32 Smart Indoor Environment Monitoring System using Embedded C. Identified and fixed firmware bugs, improved motion detection and input validation, optimized task scheduling, and tested the revised code using GCC. Includes debugging logs, validation results, performance benchmarks, and revised source code.
